@@ -704,6 +704,26 @@
         <span style="font-size: 8px;">Zoho_old</span>
     </td>
     <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Work.png" alt="Work.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Work</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Networktest.png" alt="Networktest.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Networktest</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Free.png" alt="Free.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Free</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Pass.png" alt="Pass.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Pass</span>
+    </td>
+    <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Global-2.png" alt="Global-2.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Global-2</span>
+    </td>
+    <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Zune.png" alt="Zune.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Zune</span>
     </td></tr></table>
