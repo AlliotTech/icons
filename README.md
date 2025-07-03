@@ -724,6 +724,10 @@
         <span style="font-size: 8px;">Global-2</span>
     </td>
     <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Proxy.png" alt="Proxy.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Proxy</span>
+    </td>
+    <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Zune.png" alt="Zune.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Zune</span>
     </td></tr></table>
