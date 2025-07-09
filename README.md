@@ -708,6 +708,10 @@
         <span style="font-size: 8px;">Work</span>
     </td>
     <td align="center" style="padding: 10px;">
+        <img src="Icon/Color/Atlassian.png" alt="Atlassian.png" width="60" height="60"><br>
+        <span style="font-size: 8px;">Atlassian</span>
+    </td>
+    <td align="center" style="padding: 10px;">
         <img src="Icon/Color/Networktest.png" alt="Networktest.png" width="60" height="60"><br>
         <span style="font-size: 8px;">Networktest</span>
     </td>
